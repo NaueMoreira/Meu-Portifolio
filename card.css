@@ -137,6 +137,15 @@
   object-fit: cover;
   object-position: center;
 }
+#projeto-medicamento{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 195px;
+  width: 100%;
+  gap: 40px;
+  flex-wrap: wrap;
+}
 #projeto-car{
   display: flex;
   justify-content: center;
